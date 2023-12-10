@@ -1,0 +1,40 @@
+﻿body
+{
+    text-align: center;   
+}
+.sityLink {
+    font-weight: bold;
+    color: darkblue;
+    text-decoration: underline;
+    text-align: left;
+    margin-left: -1200px;
+}
+.sityLink:hover 
+{
+    color: blue; 
+}
+.contacts {
+    text-align: left;
+    margin-left: 150px;
+}
+.ctb 
+{
+    text-align: left;
+    margin-left: -1140px;
+}
+.email-link {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+    text-align: left;
+    margin-left: 20px;
+}
+.ct {
+    text-align: left;
+    margin-left: 140px;
+}
+ul {
+    list-style-type: disc;
+    list-style-position: outside;
+    padding-left: 180px; 
+}
